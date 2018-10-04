@@ -2,7 +2,7 @@
 
 ## Objective
 ### Problem Description
-This weeks assignment deals with an old fashioned primary school problem. Most of you will know the "Turmrechnen" as a pain of your former school days. How it works is shown in the following example:
+This weeks assignment deals with an old fashioned primary school problem. Most of you will know the "Turmrechnen" as a pain of your former school days. How it works is shown in the following exampl
 
 ```
 Pyramid of Numbers
